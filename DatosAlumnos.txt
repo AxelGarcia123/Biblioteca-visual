@@ -1,0 +1,3 @@
+21,Cancún,El Paraíso,61503,Zitácuaro,Michoacán de Ocampo,17650015,Alejandra,Colín,Jiménez,Femenino,20/07/1999,7151466695,alecolinjimenez@outlook.com,Ingeniería en Sistemas Computacionales,4
+22,Cancún,El Paraíso,61503,Zitácuaro,Michoacán de Ocampo,17650010,Axel Bryan,Ávila,García,Masculino,02/10/1999,7151414524,ff9890307@gmail.com,Ingeniería en Sistemas Computacionales,4
+95,La Joya,El Troje,61533,Zitácuaro,Michoacán de Ocampo,17650008,Saul Andre,Aguilar,Gutierrez,Masculino,19/12/1999,7151354835,ag.saul99@gmail.com,Ingeniería en Sistemas Computacionales,4

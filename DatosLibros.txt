@@ -1,0 +1,4 @@
+123123123123123,Steve Jobs,Derrick Rose,Alfa,2,1999,Español,Estados Unidos
+234234234234234,El Esclavo,Kevin Durant,Omega,1,2000,Español,México
+345345345345345,Los 12 Secretos de Microsoft,David Thielen,McGrawHill,1,2000,Español,México
+456456456456456,Una vida con propósito,Rick Warren,VIDA,1,2000,Español,México
